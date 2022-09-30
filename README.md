@@ -2,7 +2,7 @@
 
 An expense tracker app created using react and redux	
 
-![image info](./src/assets/expense-tracker.gif)
+![image info](./src/assets/gif/expense-tracker.gif)
 
 
 ### INSTRUCTIONS
